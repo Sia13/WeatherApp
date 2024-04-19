@@ -1,0 +1,16 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+input {
+  margin-right: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
+}
