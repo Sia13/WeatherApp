@@ -1,1 +1,1 @@
-# WeatherApp
+This weather app, powered by React and Spring Boot, lets users check weather for any city. It fetches data from OpenWeatherMap API via backend, displaying it on frontend. Simple UI with input for city selection ensures quick access to accurate weather updates.
