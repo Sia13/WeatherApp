@@ -3,7 +3,7 @@
 @RequestMapping("/api/weather")
 public class WeatherController {
 
-    private static final String API_KEY = "your_openweathermap_api_key";
+    private static final String API_KEY = "1d3427fb34a2572ef1c2301ab68db7c2";
     private static final String API_URL = "http://api.openweathermap.org/data/2.5/weather";
 
     @Autowired
